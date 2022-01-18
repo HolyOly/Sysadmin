@@ -1,0 +1,329 @@
+@font-face {
+    font-family: "Roboto-Regular";  
+    src: url(fonts/Roboto-Regular.ttf) format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+@font-face {
+    font-family: "PragmaticaExtraLight";  
+    src: url(fonts/PragmaticaExtraLight.ttf) format("truetype"); 
+}
+@font-face {
+    font-family: "NimbusSan";  
+    src: url(fonts/NimbusSanL-Reg.ttf) format("truetype"); 
+}
+@font-face {
+    font-family: "NimbusSanL-Bol";  
+    src: url(fonts/NimbusSanL-Bol.ttf) format("truetype"); 
+}
+@font-face {
+    font-family: "Coolvetica";  
+    src: url(fonts/CoolveticaEl-Regular.ttf) format("truetype"); 
+}
+@font-face {
+    font-family: "HelveticaNeue";  
+    src: url(fonts/HelveticaNeue-Thin.ttf) format("truetype"); 
+}
+@font-face {
+    font-family: "Helvetica-heavy";  
+    src: url(fonts/HelveticaNeue.ttf) format("truetype"); 
+}
+.row-header {
+    background-color: #00003F;
+    height: 3.9rem;
+    align-content: center;
+    position: relative;
+}
+.container-alignment {
+    margin: 0 auto;
+    width: 84.3rem; 
+}
+.logo-prof {
+    font-size: .9rem;
+    color: white;
+    line-height: 1;
+    margin-left: 3.8rem;
+    align-content: center;
+    margin-top: .7rem;
+}
+.nav {
+    position: relative;
+    font-size: 1.1rem;
+    margin-top: .3rem;
+    padding-left: -.2rem; 
+    font-family: "Roboto-Regular"; 
+    align-content: center; 
+    margin-left: 5.8rem;
+}
+.nav-link {
+    color: white;
+}
+.margin-link {
+    margin-left: 1.9rem;
+}
+.margin-button {
+    margin-left: 4.3rem;
+}
+.btn-1 {
+    margin-top: -0.1rem;
+    align-content: center; 
+    height: 3.1rem;
+    display: block;
+    color: white;
+    background-color: #E93255;
+    padding: .3em 1em;
+    border: none;
+    border-radius: 100px;
+    font-family: "Roboto-Regular";
+}
+.btn-1:hover {
+    background-color: #FFD856;
+}
+.button-text {
+    padding-top: .2rem;
+    padding-left: .9rem;
+    padding-right: .9rem;
+}
+.container-1 {
+    background: url("img/фон.png") no-repeat center;
+    width: 84.3rem; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.rectangle {
+    width: 5rem;
+    height: .3rem;
+    background: #EA3155;
+    margin-top: 7.9rem;
+}
+.text-pink {
+    color: #EA3155;
+}
+.ml {
+    margin-left: .8rem;
+}
+.prof-text {
+    margin-top: 1.5rem;
+}
+.sys-admin-text {
+    color: white;
+    font-size: 2.2rem;
+    font-family: "Roboto-Regular"; 
+    font-weight: 800;
+}
+.sys-admin-text-margin1 {
+    padding-top: 2.1rem;
+}
+.sys-admin-text-margin2 {
+    margin-top: -0.9rem;
+}
+.text-white {
+    color: white;
+}
+.btn-2 {
+    margin-top: 2.6rem;
+    align-content: center; 
+    height: 3.1rem;
+    align-content: center;
+    display: block;
+    color: white;
+    background-color: #E93255;
+    padding: .3em 1em;
+    border: none;
+    border-radius: 100px;
+    font-family: "Roboto-Regular";
+}
+.btn-2:hover {
+    background-color: #FFD856;
+}
+.button-text-1 {
+    padding-top: .45rem;
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+}
+.text1 {
+    font-family: "PragmaticaExtraLight";
+    color: white; 
+    font-size: .7rem;
+}
+.text2 {
+    font-family: "NimbusSan";
+    color: white; 
+    font-size: 1rem;
+}
+.text-1-mt {
+    margin-top: 2.4rem;
+}
+.text-2-mt {
+    margin-top: -2.3rem;
+}
+.text-2-ml-1 {
+    margin-left: 0.9rem;
+}
+.margin-l {
+    margin-left: -2.7rem;
+}
+.margin-2 {
+    margin-left: -4.7rem;
+    margin-bottom: 7rem;
+}
+.text-2-ml-2 {
+    margin-left: 0.3rem;
+}
+.container-2 {
+    background-color: #00003F;
+}
+.img-2 {
+    width: 21rem;
+    margin-top: 4.3rem;
+    margin-left: 2.7rem;
+}
+.title-1 {
+    display: inline-block;
+    position: relative;
+}
+.rectangle-global {
+    display: inline-block;
+    background: #EA3155;
+    width: 0.35rem;
+    height: 2.8rem;
+}
+.rectangle-1 {
+    margin-top: 3.79rem;
+    margin-left: -.85rem;
+}
+.title-2 {
+    margin-top: 3.7rem;
+    margin-left: .5rem;
+    position: absolute;
+}
+.title-global {
+    display: inline-block;
+    font-family: "NimbusSanL-Bol"; 
+    font-size: 1.3rem;
+    color: white;
+    letter-spacing: .02rem;
+}
+.admin-describe {
+    font-family: "Coolvetica";  
+    font-size: 1.4rem;
+    margin-top: 1.1rem;
+    margin-right: 1.5rem;
+    line-height: 1.12;
+    letter-spacing: .0002rem;
+    word-spacing: .13rem;
+}
+.margin-3 {
+    margin-top: 1.7rem;
+    margin-bottom: 6rem;
+}
+.title-3 {
+    display: inline-block;
+    position: absolute;
+    font-family: "NimbusSanL-Bol"; 
+    font-size: 1.3rem;
+    color: white;
+    margin-top: 3.7rem;
+    margin-left: .5rem;
+    letter-spacing: .02rem;
+    white-space: nowrap;
+}
+.container-3 {
+    background-color: #0E035C;
+}
+.rectangle-2 {
+    text-align: center;
+}
+.about-text {
+    margin-top: 3rem;
+    margin-left: 14.6rem;
+}
+.text-3 {
+    position: absolute;
+    margin-top: -.1rem;
+    margin-left: .3rem;
+}
+.font-text-1 {
+    font-family: "HelveticaNeue"; 
+    font-size: 1.3rem;
+}
+.course-describe {
+    margin-top: .995rem;
+    margin-left: .9rem;
+    line-height: 1.26;
+    word-spacing: .13rem;
+}
+.about-document{
+    margin-top: .5rem;
+    margin-left: 14.6rem;
+}
+.document-describe {
+    margin-top: -4rem;
+    margin-left: .9rem;
+    margin-right: 6rem;
+    line-height: 1.22;
+    word-spacing: .05rem;
+    letter-spacing: .0001rem;
+    margin-bottom: 11rem;
+}
+.text-4 {
+    position: absolute;
+    margin-top: .4rem;
+    margin-left: .4rem;
+    word-spacing: .05rem;
+    letter-spacing: .003rem;
+}
+.btn-3 {
+    margin-top: 1rem;
+    margin-left: -6.5rem;
+    height: 7rem;
+    width: 23.5rem;
+    background-color: #E93255;
+    border-radius: 20px;
+    border: 2px dotted black;
+}
+.btn-3:hover {
+    background-color: #c50629;
+}
+.btn-text {
+    font-family: "Helvetica-heavy";  
+    font-size: 1.3rem;
+    padding: -1.5rem 1.5rem 1rem;
+    line-height: 1.5rem;
+}
+.container-4 {
+    background-color: #020141;
+}
+.icons {
+    display: inline-block;
+    color: #E93255;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    
+}
+.fab {
+    font-size: 1.6rem;
+    padding-top: 2.6rem;
+    letter-spacing: .5rem;
+}
+.footer-general {
+    font-family: "PragmaticaExtraLight";
+    padding-top: 2rem;
+    font-size: 1.04rem;
+}
+.address {
+    margin-left: -8.3rem;
+    line-height: 1.15rem;
+    letter-spacing: .0003rem;
+}
+.email {
+    margin-left: -6rem;
+    letter-spacing: .0003rem;
+}
+.number {
+    margin-left: -9rem;
+    letter-spacing: .0003rem;
+    letter-spacing: .0001rem;
+}
